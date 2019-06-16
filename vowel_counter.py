@@ -7,4 +7,4 @@ def vowel_counter(string):
     if(i in vowels):
         counter += 1
 
-  print("Number of vowels: " + str(counter))
+  return("Number of vowels: " + str(counter))

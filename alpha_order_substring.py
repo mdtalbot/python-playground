@@ -12,4 +12,4 @@ def alpha_order_substring(str):
     else:
         current_string = i
     previous_char = i
-  print('Longest substring in alphabetical order is: ' + max_string)
+  return('Longest substring in alphabetical order is: ' + max_string)
