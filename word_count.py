@@ -1,4 +1,4 @@
-def word_frequency(passage):
+def word_count(passage):
   newDict = {}
   for word in passage:
     if word in newDict:
